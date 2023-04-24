@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\bin\Debug\net7.0\066_Task.exe
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\bin\Debug\net7.0\066_Task.deps.json
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\bin\Debug\net7.0\066_Task.runtimeconfig.json
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\bin\Debug\net7.0\066_Task.dll
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\bin\Debug\net7.0\066_Task.pdb
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\066_Task.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\066_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\066_Task.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\066_Task.AssemblyInfo.cs
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\066_Task.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\066_Task.dll
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\refint\066_Task.dll
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\066_Task.pdb
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\066_Task.genruntimeconfig.cache
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\FinishHomeWork\066_Task\obj\Debug\net7.0\ref\066_Task.dll
